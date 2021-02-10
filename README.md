@@ -4,5 +4,5 @@
 **Visualização da página principal:**
 
 <p align="center">
-  <img alt="dDC-Home" src="./github/hcd.png" width="100%">
+  <img alt="dDC-Home" src="./github/hDC.png" width="100%">
 </p>
