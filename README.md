@@ -15,5 +15,5 @@
 
 **Conhecendo um novas aplicações:**
  - Carousel: Um slideshow para fazer um giro nas imagens com títulos e parágrafos.
- - Scroll Animado: Ao clicar as opções do menu (home, agência) a página vai até a seção desejada.
+ - Scroll Animado: Ao clicar nas opções da barra de navegação (home, agência) a página vai até a seção desejada.
  - Parallax: Uma imagem de fundo com impressão de movimento.
