@@ -13,7 +13,8 @@
 - Javascript (Jquery)
 - Bootstrap 4
 
-**Conhecendo um novas aplicações:**
+**Conhecendo novas aplicações:**
  - Carousel: Um slideshow para fazer um giro nas imagens com títulos e parágrafos.
- - Scroll Animado: Ao clicar nas opções da barra de navegação (home, agência) a página vai até a seção desejada.
+ - Progress Bar: Os círculos de progresso carregam a medida que ficam visiveis, quando o scroll é rodado para baixo.
  - Parallax: Uma imagem de fundo com impressão de movimento.
+ - Scroll Animation: Ao clicar nas opções da barra de navegação (home, agência) a página vai até a seção desejada.
