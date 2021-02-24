@@ -160,6 +160,7 @@ header, .navbar{
 }
 
 .zoom:hover i, .zoom:hover h4, .zoom:hover p{
+   cursor: context-menu;
    transform: scale(1.02);
 }
 
